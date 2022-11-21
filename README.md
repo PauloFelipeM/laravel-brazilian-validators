@@ -1,8 +1,6 @@
 # laravel-brazilian-validators: Validações brasileiras para Laravel.
 
-Biblioteca para adiciona validações brasileiras no Laravel, como PIX, CPF, CNPJ, Placa de Carro, CEP entre outros.
-
-:brazil::brazil::brazil:
+:brazil: Biblioteca para adiciona validações brasileiras no Laravel, como PIX, CPF, CNPJ, Placa de Carro, CEP entre outros.
 
 [![Latest Version on Packagist](https://img.shields.io/badge/packagist-1.0.0-blue)](https://packagist.org/packages/paulofelipem/laravel-brazilian-validators)
 [![Total Downloads](https://img.shields.io/packagist/dt/PauloFelipeM/laravel-brazilian-validators)](https://packagist.org/packages/paulofelipem/laravel-brazilian-validators)
