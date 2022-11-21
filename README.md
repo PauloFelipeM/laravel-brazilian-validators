@@ -57,7 +57,7 @@ Validações disponíveis:
 | pis_format      |                                                                                                               Valida se o campo tem o formato de PIS. |
 | cpf_cnpj_format |                                                                                                    Valida se o campo contém um formato de CPF ou CNPJ |
 
-## Testando as validações do PtBrValidator
+## Testando as validações
 
 Com isso, é possível fazer um teste simples
 
@@ -119,7 +119,7 @@ Veja [CHANGELOG](CHANGELOG.md) para mais informações.
 
 Se você identificar alguma falha, por favor abra uma issue no Github.
 
-## Creditos
+## Créditos
 
 - [Paulo Felipe Martins](https://github.com/PauloFelipeM)
 
