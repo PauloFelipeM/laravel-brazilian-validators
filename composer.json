@@ -1,0 +1,37 @@
+{
+  "name": "paulofelipem/laravel-brazilian-validators",
+  "description": "Laravel - Biblioteca com validações de formatos e tipos Brasileiros",
+  "license": "MIT",
+  "homepage": "https://github.com/PauloFelipeM/laravel-brazilian-validators",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Paulo Felipe Martins",
+      "email": "paulofelipemartins@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.1",
+    "illuminate/support": ">=9.40"
+  },
+  "autoload": {
+    "psr-4": {
+      "PauloFelipeM\\BrazilianValidator\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {}
+  },
+  "scripts": {},
+  "config": {
+    "sort-packages": true
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "PauloFelipeM\\BrazilianValidator\\BrazilianValidatorServiceProvider"
+      ]
+    }
+  }
+}
